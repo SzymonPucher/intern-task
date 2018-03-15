@@ -17,5 +17,5 @@ The truncated string shall not to exceed n characters including ellipsis under t
 ### Solutions
 
 Takes string as an input,
-1. truncates input into list and adds ellipsis at the end in truncated string.
+1. truncates input into list and adds ellipsis at the end of truncated string.
 2. adds ellipsis (not using list above) after every string which is not an html tag.
